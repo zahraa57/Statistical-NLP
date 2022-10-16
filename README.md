@@ -1,10 +1,10 @@
 # Statistical-NLP
 <br><br>
 ## 1-Autocorrect 
-** here
+** uses Shakespeare data and deploy with flask
 <br><br>
 ## 2-Text summarisation 
-** here
+** no data and deploy with flask
 <br><br>
 
 ![Alt Text](https://github.com/DheerajKumar97/Text-Summarizer-Flask-Deployment/blob/master/cover.png)
