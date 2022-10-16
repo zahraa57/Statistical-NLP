@@ -1,3 +1,7 @@
+#Statistical-NLP
+<br>
+#autocorrect 
+#text summarisation 
 ![Alt Text](https://github.com/DheerajKumar97/Text-Summarizer-Flask-Deployment/blob/master/cover.png)
 <br>
 # Text-Summarizer-Flask-Deployment
